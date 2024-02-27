@@ -8,7 +8,7 @@
 <li>Mark tasks as completed or incomplete</li>
 <li>Save tasks to local storage</li>
 </ul>
-<h1 align="center">Technologies used </h1> 
+<h1 align="center">Languages and Tools used </h1> 
 <div align="center">
      <a href="https://github.com/topics/html"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=for-the-badge"/></a>
 <a href="https://github.com/topics/css"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23E34F26.svg?&style=for-the-badge"/></a>
